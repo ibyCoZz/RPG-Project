@@ -10,10 +10,6 @@ Date: 28/02/2025
 
 ------------------------
 
-Aquí tienes el texto en inglés:
-
----
-
 # **Role-Playing Game Project in Java**
 This project is a role-playing game (RPG) developed in Java that allows players to create characters, explore a map, battle enemies, and complete missions. The game includes different character types, enemies, equipment, and a shop for purchasing items. Below is a description of the project structure and how it works.
 
