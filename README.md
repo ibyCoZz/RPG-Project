@@ -1,12 +1,12 @@
-Assignment 2: THE VIDEO GAME
+# Assignment 2: THE VIDEO GAME
 
-Developed as assignment for the programming subject.
+## Developed as assignment for the programming subject.
 
-Author: Miguel Márquez Roldán
-Teacher: Javier Aparicio León
-Language: Java
+- Author: Miguel Márquez Roldán
+- Teacher: Javier Aparicio León
+- Language: Java
 
-Date: 28/02/2025
+- Date: 28/02/2025
 
 ------------------------
 
