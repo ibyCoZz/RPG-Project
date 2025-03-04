@@ -215,13 +215,13 @@ public class Main {
 
     // Console String request
     public static String askForString(String text) {
-        System.out.print(text);
         while (true) {
+            System.out.print(text);
             try {
                 return sc.next();
             } catch (RuntimeException e) {
                 System.out.println("\nInvalid option.\n");
-                askForString(text);
+                sc.nextLine();
             }
         }
 
@@ -229,13 +229,13 @@ public class Main {
 
     // Console int request
     public static int askForInt(String text) {
-        System.out.print(text);
         while (true) {
+            System.out.print(text);
             try {
                 return sc.nextInt();
             } catch (RuntimeException e) {
                 System.out.println("\nInvalid option.\n");
-                askForInt(text);
+                sc.nextLine();
             }
         }
     }
